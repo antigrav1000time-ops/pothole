@@ -4,3 +4,6 @@ av
 opencv-python-headless
 tensorflow==2.21.0
 numpy
+langchain-core
+langchain-groq
+pydantic

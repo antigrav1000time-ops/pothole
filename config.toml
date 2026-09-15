@@ -1,0 +1,7 @@
+[theme]
+# Road-safety / hazard palette — matches the project report and slide deck.
+primaryColor = "#F2A900"            # hazard yellow — buttons, sliders, active states
+backgroundColor = "#23272B"         # asphalt charcoal — main page background
+secondaryBackgroundColor = "#2E3338" # slightly lighter charcoal — sidebar, cards, widgets
+textColor = "#F5F5F3"               # off-white — readable on dark background
+font = "sans serif"
